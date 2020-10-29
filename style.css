@@ -1,0 +1,22 @@
+html{
+    background-color: (246, 177, 177);
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+}
+
+body{
+    background-color: white;
+    width: 1024px;
+    margin: 2em 2em 2em 2em;
+    
+}
+
+h1{
+    background-color: white;
+    width: 100%;
+}
+.logoImage{
+    width: 100%;
+    
+
+}
